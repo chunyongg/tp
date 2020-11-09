@@ -12,6 +12,7 @@ It is written in Java, and has about 25k LoC.
 
 * **New Feature 1**: Implementation of initial `addgrp` functionality
   * What it does: It allows for the addition of a new tutorial group 
+  
   * Justification: This enhancement greatly improves the user experience by enabling users to
   import data instead of manually entering them. For instance, instead of adding 10 students in 10 commands,
   it can now be done via a single command.
@@ -35,6 +36,7 @@ It is written in Java, and has about 25k LoC.
   * What it does: 
     * Save data after a command is executed into JSON files.
     * Load data from JSON files when the app is launched at start.
+    <div style="page-break-after: always;"></div>
   * Justification: This feature improves the product significantly because it enables users 
   to save the data at the end of every tutorial lesson, 
   and continue updating them in the future if necessary.
