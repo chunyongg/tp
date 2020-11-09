@@ -47,7 +47,6 @@ It is written in Java, and has about 25k LoC.
   At app launch, it also required carefully reading the JSON files and
   updating the individual managers with the data.
 
->>>>>>> Stashed changes
  * **Code contributed**: [RepoSense link](https://nus-cs2103-ay2021s1.github.io/tp-dashboard/#breakdown=true&search=chunyongg&sort=groupTitle&sortWithin=title&since=2020-08-14&timeframe=commit&mergegroup=&groupSelect=groupByRepos&checkedFileTypes=docs~functional-code~test-code~other)
   
  * **Project management**:
