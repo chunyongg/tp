@@ -70,6 +70,8 @@ In [section 4](#4-features), you can find details of the three main features of 
 In this subsection, you can find the explanation of the technical terms, symbols and syntax that are used in this
 User Guide.
 
+<div style="page-break-after: always;"></div>
+    
 #### 3.2.1. Terminology related to the _GUI_
 
 The following figure shows the _GUI_ of **Serenity**.
@@ -388,6 +390,8 @@ Deleting an existing lesson from a tutorial group:
 1. Type `dellsn grp/G01 lsn/1-1` into the _Command Box_.
 2. Press `Enter` to execute.
 
+<div style="page-break-after: always;"></div>
+
 Outcome:
 
 1. The _Result Display_ will show a success message. 
@@ -451,6 +455,8 @@ Outcome:
 <p align="center"><img src="images/userGuide/settingUp/delstudent_result.png" 
    alt="Result upon successful execution of command" border="1px solid black"></p>
 <p align="center"><i>Figure 4.1.6.1 Screen displayed when the command is successfully executed.</i></p>
+
+<div style="page-break-after: always;"></div>
 
 ### 4.2. Attendance taking
 
@@ -599,6 +605,8 @@ all students in a tutorial group back as absent for a tutorial lesson.
 :warning: **Warning:** You must navigate to the tutorial lesson page through `viewlsn` before this command can be used.
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 **Example:**
 
@@ -825,6 +833,8 @@ The minimum score is 0.
 
 <br>`subscore name/STUDENT_NAME matric/STUDENT_NUMBER score/SCORE`
 <br>`subscore INDEX score/SCORE`
+
+<div style="page-break-after: always;"></div>
 
 <div markdown="block" class="alert alert-danger">
 
