@@ -30,6 +30,8 @@ This enhanced application enables CS2101 tutors to:
   * Highlights: This feature was implemented at the start of the project, and required a careful
   planning of the design patterns used so that we can accommodate future features easily,
   without overhauling our entire code structure.
+  
+  <div style="page-break-after: always;"></div>
 
 * **New Feature 2**: Implementation of `GroupManager`, `LessonManager` and `StudentManager`
   * What it does: Encapsulate individual functionalities such as tutorial groups,
@@ -68,6 +70,8 @@ This enhanced application enables CS2101 tutors to:
   * Highlights: This enhancement required careful changes to the 
   data stored across different managers. For instance, when a student 'John' is deleted,
   John's attendance and participation records must also be deleted.
+  
+  <div style="page-break-after: always;"></div>
   
  * **Code contributed**: [RepoSense link](https://nus-cs2103-ay2021s1.github.io/tp-dashboard/#breakdown=true&search=chunyongg&sort=groupTitle&sortWithin=title&since=2020-08-14&timeframe=commit&mergegroup=&groupSelect=groupByRepos&checkedFileTypes=docs~functional-code~test-code~other)
   
