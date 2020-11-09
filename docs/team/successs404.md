@@ -115,7 +115,6 @@ Given below are my contributions to the project.
     * Highlights: Moderate amount of effort was made as implementation of the commands was rather straightforward.
     Though some time was spent to fix the Ui and Storage bugs concerning the commands.
 
-<div style="page-break-after: always;"></div>
 
 * **New Feature 4**: Established the initial setup of the Storage components
 
