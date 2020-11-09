@@ -123,5 +123,5 @@ Given below are my contributions to the project.
     [2](https://github.com/AY2021S1-CS2103T-W13-2/tp/issues/111), 
     [3](https://github.com/AY2021S1-CS2103T-W13-2/tp/issues/112),
     [4](https://github.com/AY2021S1-CS2103T-W13-2/tp/issues/113),
-    [5](https://github.com/AY2021S1-CS2103T-W13-2/tp/issues/114)),
+    [5](https://github.com/AY2021S1-CS2103T-W13-2/tp/issues/114))
 
