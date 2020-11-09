@@ -21,6 +21,8 @@ This enhanced application enables CS2101 tutors to:
  * Grade students' class participation score, and 
  * Jot down questions asked by students directly without opening an external note-taking application.
 
+<div style="page-break-after: always;"></div>
+
 ### Summary of contributions
 
 Given below are my contributions to the project.
@@ -57,6 +59,8 @@ and ability to view a tutorial group's detail
     displaying lesson data in the Ui but managed to do a workaround by implementing an `ObservableList` and `FilteredList` 
     meant for lesson data for a specified group
 
+<div style="page-break-after: always;"></div>
+
 * **New Feature 3**: Improved upon base code of the following managers
     
     1. `StudentInfoManager`
@@ -89,7 +93,7 @@ and ability to view a tutorial group's detail
     * Highlights: This enhancement required some time to understand how to extract the necessary data to be displayed in the table,
     and understanding of TableView API to populate data in a table format.
     
-    
+<div style="page-break-after: always;"></div>    
 
 * **Code contributed**: [RepoSense link](https://nus-cs2103-ay2021s1.github.io/tp-dashboard/#breakdown=true&search=&sort=groupTitle&sortWithin=title&since=2020-08-14&timeframe=commit&mergegroup=&groupSelect=groupByRepos&checkedFileTypes=docs~functional-code~test-code~other&tabOpen=true&tabType=authorship&tabAuthor=ryanlimjr&tabRepo=AY2021S1-CS2103T-W12-4%2Ftp%5Bmaster%5D&authorshipIsMergeGroup=false&authorshipFileTypes=docs~functional-code~test-code)
 
