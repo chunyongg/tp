@@ -82,8 +82,6 @@ and ability to view a tutorial group's detail
     design and its alternatives, the Model component, Logic component, as well as the Ui Component. We also needed to refactor
     our original architecture design, and it required careful coordination and communication to prevent major conflicts.
 
-<div style="page-break-after: always;"></div>
-
 * **New Feature 4**: did the attendance and participation score table view UI for Serenity.
  
     * What it does: provides an overall visual view of the student's attendance and participation across all lessons for a single 
