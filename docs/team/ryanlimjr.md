@@ -99,6 +99,8 @@ and ability to view a tutorial group's detail
     * Brainstormed ideas to improve architecture design (use of individual mangers to handle the data instead of deep nesting)
     * Contributed to weekly team meetings regrading design details and implementation constraints and possible issues in design alternatives
 
+<div style="page-break-after: always;"></div>
+
 * **Enhancements to existing features**:
     * Detected and fixed bugs for some features. ( Pull request 
     [#269](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/269), 
