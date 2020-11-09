@@ -163,8 +163,6 @@ Given below are my contributions to the project.
     [#192](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/192),
     [#195](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/195))
 
-<div style="page-break-after: always;"></div>
- 
 * **Documentation**:
     * User Guide:
         * Improved the Introduction section, added the About section, added documentation for the features
