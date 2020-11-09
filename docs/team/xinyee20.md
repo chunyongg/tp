@@ -88,20 +88,20 @@ Given below are my contributions to the project.
     * Detected and fixed bugs for some features. ( Pull request 
     [#87](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/87),
     [#112](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/112),
-    [#172](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/172))
+    [#172](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/172),
     [#270](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/270),
     [#279](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/279),
     [#280](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/280),
-    [#291](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/291),
+    [#291](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/291))
     * Wrote additional tests for existing features to increase test coverage. ( Pull request
     [#138](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/138),
     [#188](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/188),
     [#270](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/270),
     [#280](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/280),
-    [#291](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/291),
+    [#291](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/291))
     * Improve code quality for certain commands to adhere to coding principles. ( Pull request 
-    [#188](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/188))
-    [#291](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/291),
+    [#188](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/188),
+    [#291](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/291))
 
 * **Documentation**:
   * User Guide:
@@ -109,8 +109,8 @@ Given below are my contributions to the project.
       `addscore`, `subscore`. ( Pull request 
       [#149](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/149))
       * Addressed documentation issues after initial peer review. ( Pull request 
-      [#112](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/112))
-      [#120](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/120))
+      [#112](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/112),
+      [#120](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/120),
       [#128](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/128))
   * Developer Guide:
       * Added implementation details for `StudentInfoManager`. ( Pull request 
