@@ -64,6 +64,8 @@ Given below are my contributions to the project.
     The implementation was time-consuming as well as it requires understanding of how JavaFX displays data.
     Time was also spent to analyse how the css files affect the display of JavaFX components.
     
+<div style="page-break-after: always;"></div>
+
 * **New Feature 2**: Incorporated Excel XLSX file support
 
     * What it does:
@@ -75,7 +77,7 @@ Given below are my contributions to the project.
         * Allows XLSX files to be written. This allows users to export attendance and participation score sheets
         of a specified tutorial group as XLSX files. The resulting XLSX file will either contain attendance or
         participation score records of each student across all tutorial lessons in the tutorial group.
-        
+
         * `exportatt` - Allows users to export attendance sheet of a specified tutorial group as a XLSX file.
         
         * `exportscore` - Allows users to export participation score sheet of a specified tutorial group as a XLSX file.
@@ -96,6 +98,8 @@ Given below are my contributions to the project.
     (Group, Lesson, Student, StudentInfo, Attendance, Participation, etc.) have to be correctly processed and
     written to the XLSX output file.
     
+<div style="page-break-after: always;"></div>
+
 * **New Feature 3**: Added the ability to add and delete tutorial groups through commands
 
     * What it does:
@@ -110,6 +114,8 @@ Given below are my contributions to the project.
     
     * Highlights: Moderate amount of effort was made as implementation of the commands was rather straightforward.
     Though some time was spent to fix the Ui and Storage bugs concerning the commands.
+
+<div style="page-break-after: always;"></div>
 
 * **New Feature 4**: Established the initial setup of the Storage components
 
@@ -155,7 +161,9 @@ Given below are my contributions to the project.
     [#180](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/180),
     [#192](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/192),
     [#195](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/195))
-    
+
+<div style="page-break-after: always;"></div>
+ 
 * **Documentation**:
     * User Guide:
         * Improved the Introduction section, added the About section, added documentation for the features
