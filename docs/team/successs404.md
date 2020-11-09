@@ -139,6 +139,8 @@ Given below are my contributions to the project.
     * Brainstormed ideas for the different features and the execution of the commands.
     * Contributed to the minutes during weekly team meetings and consultations for future referencing.
 
+<div style="page-break-after: always;"></div>
+
 * **Enhancements to existing features**:
     * Detected and fixed bugs for some features. ( Pull requests
     [#125](https://github.com/AY2021S1-CS2103T-W12-4/tp/pull/125),
