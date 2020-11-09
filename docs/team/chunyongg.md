@@ -19,8 +19,6 @@ It is written in Java, and has about 25k LoC.
   planning of the design patterns used so that we can accommodate future features easily,
   without overhauling our entire code structure.
   
-  <div style="page-break-after: always;"></div>
-
 * **New Feature 2**: Implementation of `GroupManager`, `LessonManager` and `StudentManager`
   * What it does: Encapsulate individual functionalities such as tutorial groups,
    tutorial lessons, students and their attendance records into individual managers.
